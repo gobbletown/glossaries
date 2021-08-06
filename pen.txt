@@ -1,0 +1,23 @@
+prompt function
+    Each .prompt file generates a function in
+    emacs lisp.
+
+    This generated function I will refer to as
+    a prompt function.
+
+prompt
+    A prompt is text awaiting a reponse from
+    an agent.
+
+LM prompt
+
+user prompt
+    To distinguish prompts made to a language
+    model, to prompts for 
+
+denotation
+    vim +/"denotation" "$MYGIT/semiosis/glossaries/semiotics.txt"
+
+    A translation of a sign to its meaning,
+    precisely to its literal meaning, more or
+    less like dictionaries try to define it.

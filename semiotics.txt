@@ -6,7 +6,9 @@ the semiotic function
     that have distinct signifieds and
     signifiers.
 
-Denotation
+signifier
+
+denotation
     A translation of a sign to its meaning,
     precisely to its literal meaning, more or
     less like dictionaries try to define it.
@@ -144,6 +146,9 @@ discourse
     Commonly speaking, the interaction between
     sense and understanding.
 
+digress
+digressing
+
 discursive
     [#language]
     [#philosophy]
@@ -219,7 +224,7 @@ umwelt
     The term is usually translated as "self-
     centered world".
 
-Semiotics
+semiotics
 semiotic studies
     The study of sign process (semiosis).
 
