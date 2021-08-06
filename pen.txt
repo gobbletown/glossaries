@@ -15,6 +15,13 @@ user prompt
     To distinguish prompts made to a language
     model, to prompts for 
 
+composite prompt
+compound prompt
+imaginary code
+    The imaginary code may make reference to
+    language models which generate some of the
+    code.
+
 denotation
     vim +/"denotation" "$MYGIT/semiosis/glossaries/semiotics.txt"
 
