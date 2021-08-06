@@ -15,12 +15,17 @@ user prompt
     To distinguish prompts made to a language
     model, to prompts for 
 
+prompting code
 composite prompt
 compound prompt
 imaginary code
     The imaginary code may make reference to
     language models which generate some of the
     code.
+
+    Imaginary code may not actually prompt as
+    it may use caches, so prompting code is a
+    misnomer.
 
 denotation
     vim +/"denotation" "$MYGIT/semiosis/glossaries/semiotics.txt"
