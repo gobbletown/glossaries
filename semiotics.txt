@@ -1,0 +1,271 @@
+semiotic function
+the semiotic function
+    The ability to create representations.
+    
+    It’s based on the use of signs and symbols
+    that have distinct signifieds and
+    signifiers.
+
+Denotation
+    A translation of a sign to its meaning,
+    precisely to its literal meaning, more or
+    less like dictionaries try to define it.
+    
+    Denotation is sometimes contrasted to
+    connotation, which includes associated
+    meanings
+
+    In logic, linguistics and semiotics, the
+    denotation of a word or phrase is a part
+    of its meaning; however, the part referred
+    to varies by context:
+
+    - In grammar and literary theory, the
+      literal meaning or "dictionary
+      definition" of a term, devoid of
+      emotion, attitude, and color.
+
+    - In semiotics, the surface or literal
+      meaning of a signifier.
+
+    - In logic, formal semantics and parts of
+      linguistics, the extension of a term.
+
+connotation
+    A connotation is a commonly understood
+    cultural or emotional association that any
+    given word or phrase carries, in addition
+    to its explicit or literal meaning, which
+    is its denotation.
+
+    Example: ♡
+        The denotation is a representation of
+        a cartoon heart. The connotation is a
+        symbol of love and affection.
+
+renvoi
+    The effect distinctive of signs.
+    
+    For one thing so to stand for another that
+    that other is made manifest to or for yet
+    another still.
+
+Stairway to Heaven
+    - Truman Show
+    - Observations of the symbol
+      - 28.06.21
+
+physiosemiosis
+    [#Basics of Semiotics]
+
+    Laid down the argument that the action of
+    signs extends even further than life, and
+    that semiosis as an influence of the
+    future played a role in the shaping of the
+    physical universe prior to the advent of
+    life, a role for which Deely coined the
+    term physiosemiosis.
+
+pyramid of anthroposemiosis
+    Poles:
+    - Pole of the stipulable sign.
+    - Pole of the semiotic other
+    - Pole of the interpretant
+    - Pole of the semiotic self
+    - Pole of the object experienced
+
+    Circumferal axes:
+    - Identical axis
+    - Perlocutionary axis
+    - Supposed conventional axis
+    - Conventional axis
+    - Experiential axis
+
+    Inner axes:
+    - Symptomatic axis
+    - Taxonomic axis
+    - Contractual axis
+    - Informational axis
+    - Supposed experiential axis
+
+translation semiotics
+
+semiosic translation
+    https://www.degruyter.com/document/doi/10.1515/sem-2016-0227/html
+
+    The present article explains the tenets of
+    an updated version of semiosic
+    translation.
+    
+    Many of the ideas in this paper have been
+    brewing forsome time.
+    
+    For example, the integration of the
+    Peircean notions of sign and abduction and
+    the Wittgensteinian concepts of
+    rule-following, complex-fact,
+    and hypothesis.
+    
+    It turns out that this synthesis leads to
+    some new proposals about translation
+    semiotics that seek to move the field from
+    the reification of objects, concepts and
+    practices toward a broader conception of
+    translation and translating centered on
+    the translator’s agency.
+    
+    What this means is, among other
+    things,that semiosic translation avoids a
+    delimitation of signification (things
+    and actions conveying meaning) by
+    rejecting any conceptual appeals tinged
+    with foundationalism.
+    
+    Rather, my argument will concentrate on
+    elucidating the unpredictability of
+    semiosis as a determinant of all forms of
+    translation across sign systems.
+
+semiotics
+    The study of signs and symbols and their
+    use or interpretation.
+
+zoosemiotics
+    The semiotic study of the use of signs
+    among animals, more precisely the study of
+    semiosis among animals, i.e. the study of
+    how something comes to function as a sign
+    to some animal.
+    
+    It is the study of animal forms of
+    knowing.
+
+discourse
+    Commonly speaking, the interaction between
+    sense and understanding.
+
+discursive
+    [#language]
+    [#philosophy]
+
+    Digressing from subject to subject.
+
+    "students often write dull, second-hand,
+    discursive prose"
+
+    Relating to discourse or modes of
+    discourse.
+
+    "the attempt to transform utterances from
+    one discursive context to another"
+
+sign
+    Anything that communicates a meaning, that
+    is not the sign itself, to the interpreter
+    of the sign.
+    
+    The meaning can be intentional such as a
+    word uttered with a specific meaning, or
+    unintentional, such as a symptom being a
+    sign of a particular medical condition.
+    
+    Signs can communicate through any of the
+    senses, visual, auditory, tactile,
+    olfactory, or taste.
+
+sign process
+semiosis
+    Any form of activity, conduct, or process
+    that involves signs, including the
+    production of meaning.
+
+    Describes a process that interprets signs
+    as referring to their objects, as
+    described in Charles Sanders Peirce's
+    theory of sign relations, or semiotics.
+
+semiosic
+    Relating to semiosis.
+
+semiosis of angels
+    https://muse.jhu.edu/article/636617/pdf
+
+    The question arises, could an intellectual
+    semiosis be possible that did not arise
+    out of and have constantly at its disposal
+    a perceptual base of cognitive materials
+    with which to work?
+    
+    Since discourse, commonly speaking, is
+    precisely this interaction between sense
+    and understanding, we are asking whether
+    there even can be an intellectual semiosis
+    which is not discursive.
+    
+    Or, to put it perhaps more plainly, can
+    semiosis extend even beyond the world of
+    matter and motion, to achieve its effect
+    and proper work also in a realm of pure
+    spirits bodiless from the start?
+
+umwelt
+    [#semiotics]
+
+    The "biological foundations that lie at
+    the very epicenter of the study of both
+    communication and signification in the
+    human [and non-human] animal".
+
+    The term is usually translated as "self-
+    centered world".
+
+Semiotics
+semiotic studies
+    The study of sign process (semiosis).
+
+    It includes the study of signs and sign
+    processes, indication, designation,
+    likeness, analogy, allegory, metonymy,
+    metaphor, symbolism, signification, and
+    communication.
+
+    It is not to be confused with the
+    Saussurean tradition called semiology,
+    which is a subset of semiotics.
+
+    The semiotic tradition explores the study
+    of signs and symbols as a significant part
+    of communications.
+
+    Different from linguistics, semiotics also
+    studies non-linguistic sign systems.
+
+explication
+
+sign-pole
+
+intersemiosis
+intersemioticity
+    Transmutation of verbal signs by nonverbal
+    sign systems.
+
+    Example:
+        Language and gesture combine to make
+        meaning by extending concepts
+        originally developed for
+        language–image relations.
+
+uttererin order
+
+intertextuality
+    The shaping of a text's meaning by another
+    text.
+    
+    It is the interconnection between similar
+    or related works of literature that
+    reflect and influence an audience's
+    interpretation of the text.
+    
+    Intertextuality is the relation between
+    texts that are inflicted by means of
+    quotations and allusion.
