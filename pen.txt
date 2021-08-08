@@ -33,3 +33,22 @@ denotation
     A translation of a sign to its meaning,
     precisely to its literal meaning, more or
     less like dictionaries try to define it.
+
+mode
+NLP task
+    This is a typical NLP task and I call it a
+    mode to differentiate it from the most
+    general mode (e.g. GPT-3 generation).
+
+    https://api-inference.huggingface.co/docs/python/html/detailed_parameters.html#zero-shot-classification-task
+
+    sp +/"^mode: summarize" "$PROMPTS/hf-summarize.prompt"
+
+    Examples:
+    - zero shot classification
+    - translation
+    - summarization
+    - conversation
+    - table question answering
+    - question answering
+    - question answering

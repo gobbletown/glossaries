@@ -8,6 +8,8 @@ the semiotic function
 
 signifier
 
+signified
+
 denotation
     A translation of a sign to its meaning,
     precisely to its literal meaning, more or
